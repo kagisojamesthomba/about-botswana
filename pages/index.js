@@ -1,3 +1,7 @@
 export default function Home() {
-  return <div className='bg-blue-600'>hello</div>;
+  return (
+    <div className=' flex m-60 text-7xl content-center justify-center'>
+      CONMING SOON!!!!
+    </div>
+  );
 }
